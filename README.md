@@ -1,2 +1,2 @@
-# CentOS7-arm64-YUM
+# CentOS7arm64YUM
 鲲鹏CentOS7arm64YUM更新源
